@@ -9,7 +9,7 @@ const questions = [
   {
     q: "2. When did I first fall for you?",
     options: ["Nov 20", "Dec 16", "Dec 20", "I don’t remember"],
-    answer: 0
+    answer: 1
   },
   {
     q: "3. Where did we click this photo?",

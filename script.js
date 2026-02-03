@@ -23,7 +23,27 @@ const questions = [
     answer: 3
   },
   {
-    q: "5. Will you be my Valentine?",
+    q: "5. What do you think I overthink the most?",
+    options: ["You 😌", "My future", "Small details", "Everything 😅"],
+    answer: 3
+  },
+  {
+    q: "6. What do you think I need most from you?",
+    options: ["Reassurance 🤍", "Time ⏳", "Honesty 💬", "Your presence 🫶"],
+    anyCorrect: true
+  },
+  {
+    q: "7. What do I bring into your life?",
+    options: ["Someone who truly understands you", "A shoulder to lean on", "Trust 🔐", "Unconditional love ❤️"],
+    anyCorrect: true
+  },
+  {
+    q: "8. What do I bring that no one else does?",
+    options: ["Emotional safety", "Consistencyn", "Deep understanding", "A love that stays"],
+    anyCorrect: true
+  },
+  {
+    q: "9. Will you be my Valentine?",
     final: true
   }
 ];

@@ -96,7 +96,7 @@ function selectOption(i) {
     showPopup();
   }
 
-  scoreText.textContent = `Score: ${score}/5`;
+  scoreText.textContent = `Score: ${score}/9`;
 
   setTimeout(() => {
     index++;
